@@ -1,4 +1,4 @@
-# More Simple More Complex
+# Try Something New
 > Just a non-professional programming enthusiast, all works are based on self-study.
 
 ### Most Using Tool：![](https://img.shields.io/badge/Code-Vscode-blue)
